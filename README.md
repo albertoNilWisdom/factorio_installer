@@ -1,1 +1,2 @@
-install a headless factorio server, obtain save file from git
+install a headless factorio server
+
